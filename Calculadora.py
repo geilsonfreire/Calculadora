@@ -8,7 +8,7 @@ win.title("Calculadora")  # Definindo o título da janela
 win.geometry("305x400")  # Definindo o tamanho da janela
 win.resizable(False, False) # Definindo que a janela não pode ser redimensionada
 win.config(bg="#ffffff")  # Definindo a cor de fundo da janela
-win.iconbitmap('assets/icon/cal.ico')
+# win.iconbitmap('assets/icon/cal.ico')
 
 # Criando os frames display
 frame_display = Frame(win, width = 295, height = 45, bg = "#000")  # Criando um frame para a tela display
