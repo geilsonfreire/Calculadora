@@ -14,9 +14,9 @@ O código foi escrito de maneira clara e eficiente, com funções bem definidas 
 O executável do projeto pode ser baixado diretamente do repositório no GitHub. Este arquivo .exe é compatível apenas com o sistema operacional Windows.
 
 Para executar o arquivo, siga estas etapas:
-1- Baixe o arquivo .exe do repositório.
-2 -Localize o arquivo em seu sistema e clique duas vezes nele para executar.
-3 -Se o Windows Defender exibir uma mensagem de permissão, clique em “Mais informações” e depois em “Executar mesmo assim”.
+1- Baixe o arquivo .exe do repositório. <br>
+2 -Localize o arquivo em seu sistema e clique duas vezes nele para executar. <br>
+3 -Se o Windows Defender exibir uma mensagem de permissão, clique em “Mais informações” e depois em “Executar mesmo assim”.<br>
 
 Por favor, note que este arquivo executável foi gerado a partir do código Python original usando uma ferramenta de empacotamento PYISNTALLER. Ele não requer a instalação do Python ou de qualquer biblioteca adicional para ser executado.
 
