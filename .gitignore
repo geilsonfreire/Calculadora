@@ -1,7 +1,6 @@
 # Ignorar a pasta lib
 lib/
 build/
-dist/
 
 # Ignorar arquivos específicos (substitua pelos nomes reais dos arquivos)
 arquivo1.txt

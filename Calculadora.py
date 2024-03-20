@@ -1,6 +1,14 @@
 # Importando as bibliotecas necessárias
 from tkinter import *  # Importando a biblioteca Tkinter
 from tkinter import ttk  # Importando a biblioteca ttk
+import os  # Importando a biblioteca os
+
+
+# Obtém o diretório do script Python
+script_dir = os.path.dirname(os.path.realpath(__file__))
+
+# Constrói o caminho para o arquivo de ícone
+icon_path = os.path.join(script_dir, 'assets/icon/cal.ico')
 
 # Criando a janela
 win = Tk()  # Criando a janela principal
@@ -8,7 +16,7 @@ win.title("Calculadora")  # Definindo o título da janela
 win.geometry("305x400")  # Definindo o tamanho da janela
 win.resizable(False, False) # Definindo que a janela não pode ser redimensionada
 win.config(bg="#ffffff")  # Definindo a cor de fundo da janela
-# win.iconbitmap('assets/icon/cal.ico')
+win.iconbitmap(icon_path)
 
 # Criando os frames display
 frame_display = Frame(win, width = 295, height = 45, bg = "#000")  # Criando um frame para a tela display
