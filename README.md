@@ -13,7 +13,7 @@ O código foi escrito de maneira clara e eficiente, com funções bem definidas 
 ## Instruções para o Executável
 O executável do projeto pode ser baixado diretamente do repositório no GitHub. Este arquivo .exe é compatível apenas com o sistema operacional Windows.
 
-Para executar o arquivo, siga estas etapas:
+Para executar o arquivo, siga estas etapas: <br>
 1- Baixe o arquivo .exe do repositório. <br>
 2 -Localize o arquivo em seu sistema e clique duas vezes nele para executar. <br>
 3 -Se o Windows Defender exibir uma mensagem de permissão, clique em “Mais informações” e depois em “Executar mesmo assim”.<br>
